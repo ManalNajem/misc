@@ -1,0 +1,1150 @@
+31 Jan 2014 15:40:24,666  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 15:40:24,868  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 15:40:24,906  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131154024-3abd
+31 Jan 2014 15:40:24,911  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 15:40:24,947  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 57253 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,57253)
+31 Jan 2014 15:40:24,953  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 15:40:24,959  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:57253 with 1194.5 MB RAM
+31 Jan 2014 15:40:24,960  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 15:40:25,115  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:57254
+31 Jan 2014 15:40:25,121  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 15:40:25,126  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-390ca8cf-f939-481a-9f21-19c927fb08a1
+31 Jan 2014 15:40:25,437  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 15:40:25,895  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:57255/jars/Scala.jar with timestamp 1391200825894
+31 Jan 2014 15:52:41,372  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 15:52:41,575  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 15:52:41,615  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131155241-33e9
+31 Jan 2014 15:52:41,619  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 15:52:41,656  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58532 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58532)
+31 Jan 2014 15:52:41,661  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 15:52:41,666  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58532 with 1194.5 MB RAM
+31 Jan 2014 15:52:41,667  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 15:52:41,821  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:58533
+31 Jan 2014 15:52:41,827  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 15:52:41,833  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-9fb67a4f-8df8-4305-b219-904fda353911
+31 Jan 2014 15:52:42,146  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 15:52:42,577  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:58534/jars/Scala.jar with timestamp 1391201562576
+31 Jan 2014 15:54:52,192  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 15:54:52,405  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 15:54:52,443  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131155452-f147
+31 Jan 2014 15:54:52,448  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 15:54:52,484  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58934 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58934)
+31 Jan 2014 15:54:52,489  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 15:54:52,492  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58934 with 1194.5 MB RAM
+31 Jan 2014 15:54:52,493  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 15:54:52,647  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:58935
+31 Jan 2014 15:54:52,654  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 15:54:52,659  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-69f4bd5c-6dba-48f4-aec8-b80f4a46b7a2
+31 Jan 2014 15:54:52,966  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 15:54:54,248  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:58936/jars/Scala.jar with timestamp 1391201694247
+31 Jan 2014 15:55:57,892  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 15:55:58,093  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 15:55:58,132  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131155558-aaa0
+31 Jan 2014 15:55:58,136  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 15:55:58,172  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 59142 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,59142)
+31 Jan 2014 15:55:58,177  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 15:55:58,185  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:59142 with 1194.5 MB RAM
+31 Jan 2014 15:55:58,186  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 15:55:58,337  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:59143
+31 Jan 2014 15:55:58,344  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 15:55:58,349  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-86c42653-1f5a-4ea8-9011-ed2cb74c8e27
+31 Jan 2014 15:55:58,658  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 15:55:59,487  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:59144/jars/Scala.jar with timestamp 1391201759486
+31 Jan 2014 17:04:15,278  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 17:04:15,491  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 17:04:15,529  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131170415-3707
+31 Jan 2014 17:04:15,534  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 17:04:15,572  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 50787 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,50787)
+31 Jan 2014 17:04:15,577  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 17:04:15,580  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:50787 with 1194.5 MB RAM
+31 Jan 2014 17:04:15,581  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 17:04:15,777  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:50788
+31 Jan 2014 17:04:15,784  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 17:04:15,789  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-5fe0788a-9653-4a51-a4c1-942a3e25a655
+31 Jan 2014 17:04:16,107  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 17:04:17,818  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:50789/jars/Scala.jar with timestamp 1391205857718
+31 Jan 2014 18:35:57,489  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 18:36:00,398  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 18:36:01,140  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131183601-77ef
+31 Jan 2014 18:36:01,175  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 18:36:01,403  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 62593 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,62593)
+31 Jan 2014 18:36:01,519  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 18:36:01,560  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:62593 with 1194.5 MB RAM
+31 Jan 2014 18:36:01,562  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 18:36:03,352  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:62594
+31 Jan 2014 18:36:03,486  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 18:36:03,531  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-b58d5aac-61f3-488d-b9e8-dcc4737918af
+31 Jan 2014 18:36:08,141  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 18:36:10,395  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:62595/jars/Scala.jar with timestamp 1391211370382
+31 Jan 2014 18:40:53,333  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 18:40:53,545  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 18:40:53,585  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131184053-6c79
+31 Jan 2014 18:40:53,589  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 18:40:53,627  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 63180 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,63180)
+31 Jan 2014 18:40:53,633  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 18:40:53,636  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:63180 with 1194.5 MB RAM
+31 Jan 2014 18:40:53,637  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 18:40:53,808  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:63181
+31 Jan 2014 18:40:53,814  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 18:40:53,820  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-ad1d5b59-5414-48df-98ee-c24cc43a1e77
+31 Jan 2014 18:40:54,134  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 18:40:54,636  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:63182/jars/Scala.jar with timestamp 1391211654635
+31 Jan 2014 18:41:59,129  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 18:41:59,337  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 18:41:59,377  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131184159-78ef
+31 Jan 2014 18:41:59,381  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 18:41:59,418  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 63506 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,63506)
+31 Jan 2014 18:41:59,424  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 18:41:59,427  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:63506 with 1194.5 MB RAM
+31 Jan 2014 18:41:59,428  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 18:41:59,581  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:63507
+31 Jan 2014 18:41:59,587  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 18:41:59,592  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-fbdc4bce-8836-460e-b158-59497880e518
+31 Jan 2014 18:41:59,899  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 18:42:00,415  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:63508/jars/Scala.jar with timestamp 1391211720414
+31 Jan 2014 18:43:23,000  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 18:43:23,215  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 18:43:23,256  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131184323-b582
+31 Jan 2014 18:43:23,260  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 18:43:23,299  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 63658 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,63658)
+31 Jan 2014 18:43:23,304  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 18:43:23,307  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:63658 with 1194.5 MB RAM
+31 Jan 2014 18:43:23,308  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 18:43:23,469  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:63660
+31 Jan 2014 18:43:23,475  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 18:43:23,481  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-0f465906-0ace-4e38-89ad-8a284bde4142
+31 Jan 2014 18:43:23,796  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 18:43:24,258  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:63661/jars/Scala.jar with timestamp 1391211804257
+31 Jan 2014 18:44:57,356  INFO [spark-akka.actor.default-dispatcher-3] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 18:44:57,561  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 18:44:57,600  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131184457-2bc9
+31 Jan 2014 18:44:57,604  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 18:44:57,642  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 63999 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,63999)
+31 Jan 2014 18:44:57,647  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 18:44:57,650  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:63999 with 1194.5 MB RAM
+31 Jan 2014 18:44:57,651  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 18:44:57,801  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:64000
+31 Jan 2014 18:44:57,808  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 18:44:57,813  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-0086b9db-0b75-49b6-9fd8-51ffc0095e5a
+31 Jan 2014 18:44:58,137  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 18:44:58,605  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:64001/jars/Scala.jar with timestamp 1391211898604
+31 Jan 2014 18:45:40,312  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 18:45:40,534  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 18:45:40,574  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131184540-c43e
+31 Jan 2014 18:45:40,578  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 18:45:40,617  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 64110 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,64110)
+31 Jan 2014 18:45:40,622  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 18:45:40,625  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:64110 with 1194.5 MB RAM
+31 Jan 2014 18:45:40,626  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 18:45:40,785  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:64112
+31 Jan 2014 18:45:40,792  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 18:45:40,797  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-d897940f-1501-4296-abda-d89be513fe1a
+31 Jan 2014 18:45:41,111  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 18:45:41,567  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:64113/jars/Scala.jar with timestamp 1391211941566
+31 Jan 2014 18:47:21,712  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 18:47:21,920  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 18:47:21,957  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131184721-eb93
+31 Jan 2014 18:47:21,961  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 18:47:21,998  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 64365 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,64365)
+31 Jan 2014 18:47:22,003  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 18:47:22,006  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:64365 with 1194.5 MB RAM
+31 Jan 2014 18:47:22,007  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 18:47:22,162  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:64366
+31 Jan 2014 18:47:22,169  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 18:47:22,174  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-ed0e421f-a58e-4e30-a1f5-5fa30c9d17a1
+31 Jan 2014 18:47:22,484  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 18:47:22,953  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:64367/jars/Scala.jar with timestamp 1391212042952
+31 Jan 2014 18:48:27,799  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 18:48:28,005  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 18:48:28,050  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131184828-04bc
+31 Jan 2014 18:48:28,055  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 18:48:28,092  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 64603 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,64603)
+31 Jan 2014 18:48:28,098  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 18:48:28,101  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:64603 with 1194.5 MB RAM
+31 Jan 2014 18:48:28,102  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 18:48:28,257  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:64604
+31 Jan 2014 18:48:28,263  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 18:48:28,269  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-ee758cc4-d8cf-48b3-91b4-9af7f6c9ce81
+31 Jan 2014 18:48:28,582  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 18:48:29,038  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:64605/jars/Scala.jar with timestamp 1391212109037
+31 Jan 2014 18:50:29,821  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 18:50:30,038  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 18:50:30,076  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131185030-8092
+31 Jan 2014 18:50:30,081  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 18:50:30,118  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 64946 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,64946)
+31 Jan 2014 18:50:30,124  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 18:50:30,127  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:64946 with 1194.5 MB RAM
+31 Jan 2014 18:50:30,127  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 18:50:30,288  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:64947
+31 Jan 2014 18:50:30,295  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 18:50:30,300  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-db705849-5f82-475b-99f9-312743867bc5
+31 Jan 2014 18:50:30,614  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 18:50:31,849  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:64948/jars/Scala.jar with timestamp 1391212231848
+31 Jan 2014 18:57:42,305  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 18:57:45,388  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 18:57:49,914  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131185749-d2ed
+31 Jan 2014 18:57:49,958  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 18:57:50,284  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 49531 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,49531)
+31 Jan 2014 18:57:50,525  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 18:57:50,566  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:49531 with 1194.5 MB RAM
+31 Jan 2014 18:57:50,567  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 18:57:52,409  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:49532
+31 Jan 2014 18:57:52,492  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 18:57:52,579  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-75d0aa1c-389a-42ed-af20-ebeb9add241c
+31 Jan 2014 18:57:57,514  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 18:57:59,167  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:49533/jars/Scala.jar with timestamp 1391212679165
+31 Jan 2014 19:19:58,467  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 19:20:00,901  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 19:20:01,593  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131192001-1a2a
+31 Jan 2014 19:20:01,636  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 19:20:01,973  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 52424 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,52424)
+31 Jan 2014 19:20:02,047  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 19:20:02,106  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:52424 with 1194.5 MB RAM
+31 Jan 2014 19:20:02,108  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 19:20:03,722  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:52427
+31 Jan 2014 19:20:03,864  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 19:20:03,926  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-7ab4947f-c60e-45cf-aa58-16287c49ad8b
+31 Jan 2014 19:20:08,094  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 19:20:09,856  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:52428/jars/Scala.jar with timestamp 1391214009729
+31 Jan 2014 19:26:20,509  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 19:26:20,715  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 19:26:20,753  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131192620-eb55
+31 Jan 2014 19:26:20,757  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 19:26:20,794  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 53248 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,53248)
+31 Jan 2014 19:26:20,801  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 19:26:20,804  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:53248 with 1194.5 MB RAM
+31 Jan 2014 19:26:20,805  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 19:26:20,961  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:53249
+31 Jan 2014 19:26:20,967  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 19:26:20,972  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-cb5cbdd0-e14e-4d4a-9e8b-c43575670ce2
+31 Jan 2014 19:26:21,290  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 19:26:21,827  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:53250/jars/Scala.jar with timestamp 1391214381826
+31 Jan 2014 19:26:47,800  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 19:26:48,008  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 19:26:48,054  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131192648-ce29
+31 Jan 2014 19:26:48,059  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 19:26:48,096  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 53368 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,53368)
+31 Jan 2014 19:26:48,102  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 19:26:48,105  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:53368 with 1194.5 MB RAM
+31 Jan 2014 19:26:48,106  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 19:26:48,252  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:53369
+31 Jan 2014 19:26:48,267  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 19:26:48,285  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-8b766bac-c120-49e7-9dc4-0fa9207f3dc7
+31 Jan 2014 19:26:48,594  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 19:26:49,408  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:53370/jars/Scala.jar with timestamp 1391214409407
+31 Jan 2014 19:27:09,745  INFO [main] sortAndRank$ - Stream(Record(gds1,browsing,1236,201307051051), ?)
+31 Jan 2014 19:29:26,852  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 19:29:27,065  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 19:29:27,103  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131192927-a0dd
+31 Jan 2014 19:29:27,108  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 19:29:27,146  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 53584 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,53584)
+31 Jan 2014 19:29:27,151  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 19:29:27,154  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:53584 with 1194.5 MB RAM
+31 Jan 2014 19:29:27,155  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 19:29:27,310  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:53585
+31 Jan 2014 19:29:27,316  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 19:29:27,337  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-51641de2-06dd-4d9b-bdb2-da7e99275154
+31 Jan 2014 19:29:27,647  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 19:29:28,153  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:53586/jars/Scala.jar with timestamp 1391214568152
+31 Jan 2014 19:29:48,656  INFO [main] sortAndRank$ - Stream(Record(gds1,browsing,1236,201307051051), Record(gds1,browsing,1236,201307051051), Record(gds1,browsing,1235,201307051050), Record(gds1,browsing,1236,201307051055), Record(gds1,browsing,1235,201307061051), Record(gds1,browsing,1233,201307061050), Record(gds1,browsing,1233,201307061051), Record(gds1,browsing,1233,201307061052), Record(gds1,browsing,1234,201307061051), Record(gds1,browsing,1234,201307061052), Record(gds1,browsing,1237,201307061052), Record(gds1,browsing,1237,201307061053))
+31 Jan 2014 19:34:58,753  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 19:34:58,956  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 19:34:58,993  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131193458-954e
+31 Jan 2014 19:34:58,997  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 19:34:59,041  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 54549 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,54549)
+31 Jan 2014 19:34:59,046  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 19:34:59,049  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:54549 with 1194.5 MB RAM
+31 Jan 2014 19:34:59,050  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 19:34:59,207  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:54550
+31 Jan 2014 19:34:59,213  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 19:34:59,218  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-4ad42f2c-7d3b-45c5-b4c4-b0718e69284e
+31 Jan 2014 19:34:59,532  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 19:34:59,996  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:54551/jars/Scala.jar with timestamp 1391214899995
+31 Jan 2014 19:36:03,292  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 19:36:03,501  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 19:36:03,538  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131193603-7d8a
+31 Jan 2014 19:36:03,543  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 19:36:03,580  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 54583 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,54583)
+31 Jan 2014 19:36:03,585  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 19:36:03,588  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:54583 with 1194.5 MB RAM
+31 Jan 2014 19:36:03,589  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 19:36:03,740  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:54584
+31 Jan 2014 19:36:03,747  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 19:36:03,752  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-4546667d-4eb4-4007-a50b-510a83afacd1
+31 Jan 2014 19:36:04,067  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 19:36:04,554  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:54585/jars/Scala.jar with timestamp 1391214964553
+31 Jan 2014 19:36:36,127  INFO [main] sortAndRank$ - Stream(Record(gds1 browsing 1236 201307051051), Record(gds1 browsing 1236 201307051051), Record(gds1 browsing 1235 201307051050), Record(gds1 browsing 1236 201307051055), Record(gds1 browsing 1235 201307061051), Record(gds1 browsing 1233 201307061050), Record(gds1 browsing 1233 201307061051), Record(gds1 browsing 1233 201307061052), Record(gds1 browsing 1234 201307061051), Record(gds1 browsing 1234 201307061052), Record(gds1 browsing 1237 201307061052), Record(gds1 browsing 1237 201307061053))
+31 Jan 2014 19:37:37,145  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 19:37:37,356  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 19:37:37,394  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131193737-d4ee
+31 Jan 2014 19:37:37,398  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 19:37:37,435  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 55044 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,55044)
+31 Jan 2014 19:37:37,440  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 19:37:37,443  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:55044 with 1194.5 MB RAM
+31 Jan 2014 19:37:37,444  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 19:37:37,599  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:55045
+31 Jan 2014 19:37:37,606  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 19:37:37,612  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-47c944a6-a3ea-484f-bc57-0f63aa92e7d4
+31 Jan 2014 19:37:37,924  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 19:37:38,403  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:55046/jars/Scala.jar with timestamp 1391215058402
+31 Jan 2014 19:37:58,727  INFO [main] sortAndRank$ - Stream(Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1235	201307051050), Record(gds1	browsing	1236	201307051055), Record(gds1	browsing	1235	201307061051), Record(gds1	browsing	1233	201307061050), Record(gds1	browsing	1233	201307061051), Record(gds1	browsing	1233	201307061052), Record(gds1	browsing	1234	201307061051), Record(gds1	browsing	1234	201307061052), Record(gds1	browsing	1237	201307061052), Record(gds1	browsing	1237	201307061053))
+31 Jan 2014 19:51:13,124  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 19:51:13,343  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 19:51:13,386  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131195113-b07d
+31 Jan 2014 19:51:13,391  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 19:51:13,433  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 56776 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,56776)
+31 Jan 2014 19:51:13,439  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 19:51:13,442  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:56776 with 1194.5 MB RAM
+31 Jan 2014 19:51:13,443  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 19:51:13,640  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:56777
+31 Jan 2014 19:51:13,649  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 19:51:13,689  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-9f801461-05ec-4361-ab1a-07ed429e7964
+31 Jan 2014 19:51:14,034  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 19:51:14,538  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:56778/jars/Scala.jar with timestamp 1391215874537
+31 Jan 2014 19:51:46,162  INFO [main] sortAndRank$ - Stream(Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1235	201307051050), Record(gds1	browsing	1236	201307051055), Record(gds1	browsing	1235	201307061051), Record(gds1	browsing	1233	201307061050), Record(gds1	browsing	1233	201307061051), Record(gds1	browsing	1233	201307061052), Record(gds1	browsing	1234	201307061051), Record(gds1	browsing	1234	201307061052), Record(gds1	browsing	1237	201307061052), Record(gds1	browsing	1237	201307061053))
+31 Jan 2014 19:57:28,412  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 19:57:28,627  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 19:57:28,667  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131195728-b6e2
+31 Jan 2014 19:57:28,672  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 19:57:28,709  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 57539 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,57539)
+31 Jan 2014 19:57:28,715  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 19:57:28,718  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:57539 with 1194.5 MB RAM
+31 Jan 2014 19:57:28,719  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 19:57:28,878  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:57540
+31 Jan 2014 19:57:28,884  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 19:57:28,889  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-7bc208c0-71e1-4f50-b709-5b52b58a1113
+31 Jan 2014 19:57:29,211  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 19:57:29,658  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:57541/jars/Scala.jar with timestamp 1391216249657
+31 Jan 2014 19:57:50,016  INFO [main] sortAndRank$ - Stream(Record(gds1	browsing	1235	201307051050), Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1236	201307051055), Record(gds1	browsing	1233	201307061050), Record(gds1	browsing	1235	201307061051), Record(gds1	browsing	1233	201307061051), Record(gds1	browsing	1234	201307061051), Record(gds1	browsing	1233	201307061052), Record(gds1	browsing	1234	201307061052), Record(gds1	browsing	1237	201307061052), Record(gds1	browsing	1237	201307061053))
+31 Jan 2014 20:00:01,501  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 20:00:01,710  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 20:00:01,749  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131200001-45d2
+31 Jan 2014 20:00:01,754  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 20:00:01,790  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58119 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58119)
+31 Jan 2014 20:00:01,794  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 20:00:01,798  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58119 with 1194.5 MB RAM
+31 Jan 2014 20:00:01,798  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 20:00:01,967  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:58120
+31 Jan 2014 20:00:01,974  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 20:00:01,980  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-ac15c221-1707-486a-9125-043268845671
+31 Jan 2014 20:00:02,299  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 20:00:02,838  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:58121/jars/Scala.jar with timestamp 1391216402837
+31 Jan 2014 20:00:23,304  INFO [main] sortAndRank$ - Stream(Record(gds1	browsing	1235	201307051050), Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1236	201307051055), Record(gds1	browsing	1233	201307061050), Record(gds1	browsing	1235	201307061051), Record(gds1	browsing	1233	201307061051), Record(gds1	browsing	1234	201307061051), Record(gds1	browsing	1233	201307061052), Record(gds1	browsing	1234	201307061052), Record(gds1	browsing	1237	201307061052), Record(gds1	browsing	1237	201307061053))
+31 Jan 2014 20:02:51,579  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+31 Jan 2014 20:02:51,790  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+31 Jan 2014 20:02:51,829  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140131200251-9f2a
+31 Jan 2014 20:02:51,833  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+31 Jan 2014 20:02:51,871  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58294 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58294)
+31 Jan 2014 20:02:51,876  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+31 Jan 2014 20:02:51,879  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58294 with 1194.5 MB RAM
+31 Jan 2014 20:02:51,880  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+31 Jan 2014 20:02:52,036  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://192.168.130.231:58295
+31 Jan 2014 20:02:52,046  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+31 Jan 2014 20:02:52,050  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-640c2a80-748f-413a-90a3-87e7c6c0d6c7
+31 Jan 2014 20:02:52,353  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+31 Jan 2014 20:02:52,823  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://192.168.130.231:58296/jars/Scala.jar with timestamp 1391216572822
+31 Jan 2014 20:03:13,170  INFO [main] sortAndRank$ - Stream(Record(gds1	browsing	1233	201307061050), Record(gds1	browsing	1233	201307061051), Record(gds1	browsing	1233	201307061052), Record(gds1	browsing	1234	201307061051), Record(gds1	browsing	1234	201307061052), Record(gds1	browsing	1235	201307051050), Record(gds1	browsing	1235	201307061051), Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1236	201307051055), Record(gds1	browsing	1237	201307061052), Record(gds1	browsing	1237	201307061053))
+01 Feb 2014 16:41:21,457  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 16:41:24,567  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 16:41:25,359  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201164125-a9dc
+01 Feb 2014 16:41:25,427  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 16:41:25,681  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58411 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58411)
+01 Feb 2014 16:41:25,754  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 16:41:25,796  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58411 with 1194.5 MB RAM
+01 Feb 2014 16:41:25,798  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 16:41:28,413  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:58413
+01 Feb 2014 16:41:28,538  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 16:41:28,583  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-7f4212f4-08eb-4ca2-83e2-96bcf8cbdccd
+01 Feb 2014 16:41:32,909  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 16:41:37,129  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:58414/jars/Scala.jar with timestamp 1391290897040
+01 Feb 2014 16:41:57,541  INFO [main] sortAndRank$ - Stream(Record(gds1	browsing	1235	201307051050), Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1236	201307051055), Record(gds1	browsing	1233	201307061050), Record(gds1	browsing	1235	201307061051), Record(gds1	browsing	1233	201307061051), Record(gds1	browsing	1234	201307061051), Record(gds1	browsing	1233	201307061052), Record(gds1	browsing	1234	201307061052), Record(gds1	browsing	1237	201307061052), Record(gds1	browsing	1237	201307061053))
+01 Feb 2014 16:43:12,425  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 16:43:12,643  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 16:43:12,681  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201164312-f67d
+01 Feb 2014 16:43:12,685  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 16:43:12,724  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58606 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58606)
+01 Feb 2014 16:43:12,729  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 16:43:12,732  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58606 with 1194.5 MB RAM
+01 Feb 2014 16:43:12,733  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 16:43:12,889  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:58607
+01 Feb 2014 16:43:12,896  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 16:43:12,901  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-5f28b9e3-fb8f-48b5-9bdb-fc31eba983d3
+01 Feb 2014 16:43:13,216  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 16:43:14,656  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:58608/jars/Scala.jar with timestamp 1391290994655
+01 Feb 2014 16:43:41,662  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 16:43:41,873  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 16:43:41,911  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201164341-cede
+01 Feb 2014 16:43:41,916  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 16:43:41,954  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58629 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58629)
+01 Feb 2014 16:43:41,959  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 16:43:41,962  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58629 with 1194.5 MB RAM
+01 Feb 2014 16:43:41,963  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 16:43:42,129  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:58630
+01 Feb 2014 16:43:42,135  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 16:43:42,150  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-9482a35f-22ca-4d04-8425-97bf5e88aa21
+01 Feb 2014 16:43:42,478  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 16:43:43,638  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:58631/jars/Scala.jar with timestamp 1391291023637
+01 Feb 2014 16:43:59,432  INFO [main] sortAndRank$ - Vector(Record(gds1	browsing	1235	201307051050), Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1236	201307051055), Record(gds1	browsing	1233	201307061050), Record(gds1	browsing	1235	201307061051), Record(gds1	browsing	1233	201307061051), Record(gds1	browsing	1234	201307061051), Record(gds1	browsing	1233	201307061052), Record(gds1	browsing	1234	201307061052), Record(gds1	browsing	1237	201307061052), Record(gds1	browsing	1237	201307061053))
+01 Feb 2014 16:44:57,438  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 16:44:57,647  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 16:44:57,685  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201164457-d685
+01 Feb 2014 16:44:57,689  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 16:44:57,727  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58669 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58669)
+01 Feb 2014 16:44:57,732  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 16:44:57,735  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58669 with 1194.5 MB RAM
+01 Feb 2014 16:44:57,736  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 16:44:57,891  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:58670
+01 Feb 2014 16:44:57,897  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 16:44:57,903  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-00846ea4-f057-4aa5-9fb5-5b5f74865b49
+01 Feb 2014 16:44:58,213  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 16:44:58,715  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:58671/jars/Scala.jar with timestamp 1391291098715
+01 Feb 2014 16:45:14,452  INFO [main] sortAndRank$ - Vector(Record(gds1	browsing	1235	201307051050), Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1236	201307051055), Record(gds1	browsing	1233	201307061050), Record(gds1	browsing	1235	201307061051), Record(gds1	browsing	1233	201307061051), Record(gds1	browsing	1234	201307061051), Record(gds1	browsing	1233	201307061052), Record(gds1	browsing	1234	201307061052), Record(gds1	browsing	1237	201307061052), Record(gds1	browsing	1237	201307061053))
+01 Feb 2014 16:58:29,577  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 16:58:29,788  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 16:58:29,826  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201165829-54b2
+01 Feb 2014 16:58:29,830  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 16:58:29,868  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 59718 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,59718)
+01 Feb 2014 16:58:29,873  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 16:58:29,876  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:59718 with 1194.5 MB RAM
+01 Feb 2014 16:58:29,877  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 16:58:30,029  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:59719
+01 Feb 2014 16:58:30,035  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 16:58:30,074  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-db5c50c2-0221-4fd0-ab74-79bfd2b5dda4
+01 Feb 2014 16:58:30,384  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 16:58:30,948  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:59720/jars/Scala.jar with timestamp 1391291910948
+01 Feb 2014 16:58:47,020  INFO [main] sortAndRank$ - empty iterator
+01 Feb 2014 16:59:11,084  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 16:59:11,297  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 16:59:11,335  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201165911-2f3b
+01 Feb 2014 16:59:11,339  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 16:59:11,374  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 59752 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,59752)
+01 Feb 2014 16:59:11,394  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 16:59:11,397  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:59752 with 1194.5 MB RAM
+01 Feb 2014 16:59:11,398  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 16:59:11,567  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:59753
+01 Feb 2014 16:59:11,573  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 16:59:11,578  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-c4ecf455-f80c-4a29-82a4-07561e6aef83
+01 Feb 2014 16:59:11,879  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 16:59:12,350  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:59754/jars/Scala.jar with timestamp 1391291952349
+01 Feb 2014 16:59:27,700  INFO [main] sortAndRank$ - Vector(Record(gds1	browsing	1235	201307051050), Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1236	201307051055), Record(gds1	browsing	1233	201307061050), Record(gds1	browsing	1235	201307061051), Record(gds1	browsing	1233	201307061051), Record(gds1	browsing	1234	201307061051), Record(gds1	browsing	1233	201307061052), Record(gds1	browsing	1234	201307061052), Record(gds1	browsing	1237	201307061052), Record(gds1	browsing	1237	201307061053))
+01 Feb 2014 16:59:49,684  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 16:59:49,890  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 16:59:49,930  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201165949-72f4
+01 Feb 2014 16:59:49,935  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 16:59:49,972  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 59784 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,59784)
+01 Feb 2014 16:59:49,979  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 16:59:49,982  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:59784 with 1194.5 MB RAM
+01 Feb 2014 16:59:49,983  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 16:59:50,153  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:59785
+01 Feb 2014 16:59:50,159  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 16:59:50,165  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-f952a860-21dc-457a-8703-fe66c4fb804c
+01 Feb 2014 16:59:50,487  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 16:59:50,979  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:59786/jars/Scala.jar with timestamp 1391291990978
+01 Feb 2014 17:00:06,721  INFO [main] sortAndRank$ - Vector(Record(gds1	browsing	1235	201307051050), Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1236	201307051055), Record(gds1	browsing	1233	201307061050), Record(gds1	browsing	1235	201307061051), Record(gds1	browsing	1233	201307061051), Record(gds1	browsing	1234	201307061051), Record(gds1	browsing	1233	201307061052), Record(gds1	browsing	1234	201307061052), Record(gds1	browsing	1237	201307061052), Record(gds1	browsing	1237	201307061053))
+01 Feb 2014 17:32:15,676  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 17:32:15,891  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 17:32:15,929  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201173215-00bf
+01 Feb 2014 17:32:15,933  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 17:32:15,969  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 62670 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,62670)
+01 Feb 2014 17:32:15,975  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 17:32:15,978  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:62670 with 1194.5 MB RAM
+01 Feb 2014 17:32:15,978  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 17:32:16,130  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:62673
+01 Feb 2014 17:32:16,136  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 17:32:16,169  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-b82da30b-4218-4f82-98ca-5ba29722651e
+01 Feb 2014 17:32:16,522  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 17:32:17,031  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:62674/jars/Scala.jar with timestamp 1391293937030
+01 Feb 2014 17:32:33,091  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1235	201307051050), Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1236	201307051055), Record(gds1	browsing	1233	201307061050), Record(gds1	browsing	1235	201307061051), Record(gds1	browsing	1233	201307061051), Record(gds1	browsing	1234	201307061051), Record(gds1	browsing	1233	201307061052), Record(gds1	browsing	1234	201307061052), Record(gds1	browsing	1237	201307061052), Record(gds1	browsing	1237	201307061053))
+01 Feb 2014 17:35:11,497  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 17:35:11,719  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 17:35:11,758  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201173511-f17b
+01 Feb 2014 17:35:11,762  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 17:35:11,798  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 62911 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,62911)
+01 Feb 2014 17:35:11,804  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 17:35:11,807  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:62911 with 1194.5 MB RAM
+01 Feb 2014 17:35:11,807  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 17:35:11,959  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:62912
+01 Feb 2014 17:35:11,965  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 17:35:11,971  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-1d6c526f-2c0d-44ea-9481-133d6dd5633a
+01 Feb 2014 17:35:12,275  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 17:35:12,864  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:62913/jars/Scala.jar with timestamp 1391294112863
+01 Feb 2014 17:35:28,604  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1235	201307051050), Record(gds1	browsing	1236	201307051051), Record(gds1	browsing	1236	201307051055), Record(gds1	browsing	1233	201307061050), Record(gds1	browsing	1235	201307061051), Record(gds1	browsing	1233	201307061051), Record(gds1	browsing	1234	201307061051), Record(gds1	browsing	1233	201307061052), Record(gds1	browsing	1234	201307061052), Record(gds1	browsing	1237	201307061052), Record(gds1	browsing	1237	201307061053))
+01 Feb 2014 18:17:33,830  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 18:17:36,897  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 18:17:37,797  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201181737-45ff
+01 Feb 2014 18:17:37,849  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 18:17:38,126  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 50298 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,50298)
+01 Feb 2014 18:17:38,208  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 18:17:38,250  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:50298 with 1194.5 MB RAM
+01 Feb 2014 18:17:38,251  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 18:17:39,885  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:50299
+01 Feb 2014 18:17:40,018  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 18:17:40,114  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-5ae46194-dd25-44bf-a971-a33892ecc51e
+01 Feb 2014 18:17:44,989  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 18:17:48,226  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:50300/jars/Scala.jar with timestamp 1391296668212
+01 Feb 2014 18:18:06,493  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1235	20130705), Record(gds1	browsing	1236	20130705), Record(gds1	browsing	1236	20130705), Record(gds1	browsing	1233	20130706), Record(gds1	browsing	1235	20130706), Record(gds1	browsing	1233	20130706), Record(gds1	browsing	1234	20130706), Record(gds1	browsing	1233	20130706), Record(gds1	browsing	1234	20130706), Record(gds1	browsing	1237	20130706), Record(gds1	browsing	1237	20130706))
+01 Feb 2014 18:23:07,213  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 18:23:07,413  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 18:23:07,453  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201182307-5a56
+01 Feb 2014 18:23:07,458  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 18:23:07,494  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 50675 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,50675)
+01 Feb 2014 18:23:07,500  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 18:23:07,506  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:50675 with 1194.5 MB RAM
+01 Feb 2014 18:23:07,507  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 18:23:07,655  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:50676
+01 Feb 2014 18:23:07,663  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 18:23:07,671  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-591d23d6-2763-4d51-93c3-b9dcc6ea060d
+01 Feb 2014 18:23:08,047  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 18:23:11,405  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:50677/jars/Scala.jar with timestamp 1391296991404
+01 Feb 2014 18:23:27,172  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705), Record(gds1	browsing	1235	20130705), Record(gds1	browsing	1236	20130705), Record(gds1	browsing	1235	20130706), Record(gds1	browsing	1233	20130706), Record(gds1	browsing	1233	20130706), Record(gds1	browsing	1233	20130706), Record(gds1	browsing	1234	20130706), Record(gds1	browsing	1234	20130706), Record(gds1	browsing	1237	20130706), Record(gds1	browsing	1237	20130706))
+01 Feb 2014 18:36:25,807  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 18:36:26,018  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 18:36:26,057  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201183626-c31f
+01 Feb 2014 18:36:26,062  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 18:36:26,099  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 51754 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,51754)
+01 Feb 2014 18:36:26,105  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 18:36:26,108  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:51754 with 1194.5 MB RAM
+01 Feb 2014 18:36:26,109  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 18:36:26,263  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:51755
+01 Feb 2014 18:36:26,269  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 18:36:26,274  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-660bad5a-b6bb-4f45-9ac6-f286948e4f03
+01 Feb 2014 18:36:26,593  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 18:36:27,117  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:51756/jars/Scala.jar with timestamp 1391297787116
+01 Feb 2014 18:36:43,181  INFO [main] sortAndRank$ - ArrayBuffer((Record(gds1	browsing	1236	20130705),2), (Record(gds1	browsing	1235	20130705),1), (Record(gds1	browsing	1236	20130705),2), (Record(gds1	browsing	1235	20130706),1), (Record(gds1	browsing	1233	20130706),3), (Record(gds1	browsing	1233	20130706),3), (Record(gds1	browsing	1233	20130706),3), (Record(gds1	browsing	1234	20130706),2), (Record(gds1	browsing	1234	20130706),2), (Record(gds1	browsing	1237	20130706),2), (Record(gds1	browsing	1237	20130706),2))
+01 Feb 2014 18:37:52,012  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 18:37:52,221  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 18:37:52,259  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201183752-6dae
+01 Feb 2014 18:37:52,263  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 18:37:52,301  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 51849 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,51849)
+01 Feb 2014 18:37:52,306  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 18:37:52,310  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:51849 with 1194.5 MB RAM
+01 Feb 2014 18:37:52,311  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 18:37:52,462  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:51850
+01 Feb 2014 18:37:52,468  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 18:37:52,473  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-abd70719-8735-463e-b836-c6859de29125
+01 Feb 2014 18:37:55,792  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 18:37:56,273  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:51851/jars/Scala.jar with timestamp 1391297876272
+01 Feb 2014 18:38:12,047  INFO [main] sortAndRank$ - ArrayBuffer((Record(gds1	browsing	1236	20130705),2), (Record(gds1	browsing	1235	20130705),1), (Record(gds1	browsing	1235	20130706),1), (Record(gds1	browsing	1233	20130706),3), (Record(gds1	browsing	1234	20130706),2), (Record(gds1	browsing	1237	20130706),2))
+01 Feb 2014 18:42:37,001  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 18:42:37,220  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 18:42:37,260  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201184237-925f
+01 Feb 2014 18:42:37,265  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 18:42:37,303  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 52287 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,52287)
+01 Feb 2014 18:42:37,309  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 18:42:37,312  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:52287 with 1194.5 MB RAM
+01 Feb 2014 18:42:37,313  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 18:42:37,468  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:52288
+01 Feb 2014 18:42:37,474  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 18:42:37,480  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-42a7d241-92be-4a50-816a-837dfcfc7012
+01 Feb 2014 18:42:37,797  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 18:42:38,426  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:52289/jars/Scala.jar with timestamp 1391298158425
+01 Feb 2014 18:42:54,187  INFO [main] sortAndRank$ - ArrayBuffer((Record(gds1	browsing	1236	20130705),2), (Record(gds1	browsing	1235	20130705),1), (Record(gds1	browsing	1235	20130706),1), (Record(gds1	browsing	1233	20130706),3), (Record(gds1	browsing	1234	20130706),2), (Record(gds1	browsing	1237	20130706),2))
+01 Feb 2014 18:43:53,598  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 18:43:53,811  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 18:43:53,852  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201184353-5943
+01 Feb 2014 18:43:53,856  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 18:43:53,892  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 52324 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,52324)
+01 Feb 2014 18:43:53,898  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 18:43:53,901  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:52324 with 1194.5 MB RAM
+01 Feb 2014 18:43:53,901  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 18:43:54,053  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:52325
+01 Feb 2014 18:43:54,059  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 18:43:54,064  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-789cc07d-f17b-4f15-8c7a-15b5ca3e723c
+01 Feb 2014 18:43:54,381  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 18:43:54,855  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:52326/jars/Scala.jar with timestamp 1391298234854
+01 Feb 2014 18:44:10,597  INFO [main] sortAndRank$ - ArrayBuffer((Record(gds1	browsing	1235	20130705),1), (Record(gds1	browsing	1236	20130705),2), (Record(gds1	browsing	1235	20130706),1), (Record(gds1	browsing	1234	20130706),2), (Record(gds1	browsing	1237	20130706),2), (Record(gds1	browsing	1233	20130706),3))
+01 Feb 2014 18:45:29,498  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 18:45:29,702  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 18:45:29,763  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201184529-b07d
+01 Feb 2014 18:45:29,767  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 18:45:29,811  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 52514 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,52514)
+01 Feb 2014 18:45:29,816  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 18:45:29,820  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:52514 with 1194.5 MB RAM
+01 Feb 2014 18:45:29,820  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 18:45:29,984  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:52515
+01 Feb 2014 18:45:29,991  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 18:45:29,996  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-6bbd8b63-c529-4e83-83cb-6c7098af59d6
+01 Feb 2014 18:45:30,305  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 18:45:30,776  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:52516/jars/Scala.jar with timestamp 1391298330775
+01 Feb 2014 18:45:46,515  INFO [main] sortAndRank$ - ArrayBuffer((Record(gds1	browsing	1236	20130705),2), (Record(gds1	browsing	1235	20130705),1), (Record(gds1	browsing	1233	20130706),3), (Record(gds1	browsing	1234	20130706),2), (Record(gds1	browsing	1237	20130706),2), (Record(gds1	browsing	1235	20130706),1))
+01 Feb 2014 18:47:00,672  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 18:47:00,887  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 18:47:00,926  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201184700-8e83
+01 Feb 2014 18:47:00,930  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 18:47:00,969  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 52608 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,52608)
+01 Feb 2014 18:47:00,974  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 18:47:00,977  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:52608 with 1194.5 MB RAM
+01 Feb 2014 18:47:00,978  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 18:47:01,132  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:52609
+01 Feb 2014 18:47:01,139  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 18:47:01,144  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-68d99983-2c91-4b0c-9be7-9f95e600c28c
+01 Feb 2014 18:47:01,454  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 18:47:02,145  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:52610/jars/Scala.jar with timestamp 1391298422144
+01 Feb 2014 18:47:17,867  INFO [main] sortAndRank$ - ArrayBuffer((Record(gds1	browsing	1236	20130705),2), (Record(gds1	browsing	1235	20130705),1), (Record(gds1	browsing	1233	20130706),3), (Record(gds1	browsing	1237	20130706),2), (Record(gds1	browsing	1234	20130706),2), (Record(gds1	browsing	1235	20130706),1))
+01 Feb 2014 19:49:25,952  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 19:49:26,165  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 19:49:26,203  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201194926-e448
+01 Feb 2014 19:49:26,208  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 19:49:26,244  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 57756 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,57756)
+01 Feb 2014 19:49:26,250  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 19:49:26,253  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:57756 with 1194.5 MB RAM
+01 Feb 2014 19:49:26,254  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 19:49:26,432  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:57757
+01 Feb 2014 19:49:26,438  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 19:49:26,444  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-a0d49019-5b0f-4af8-b37f-7f89fda6ad7e
+01 Feb 2014 19:49:26,760  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 19:49:27,250  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:57758/jars/Scala.jar with timestamp 1391302167249
+01 Feb 2014 19:49:43,286  INFO [main] sortAndRank$ - ArrayBuffer((Record(gds1	browsing	1236	20130705),2), (Record(gds1	browsing	1235	20130705),1), (Record(gds1	browsing	1233	20130706),3), (Record(gds1	browsing	1237	20130706),2), (Record(gds1	browsing	1234	20130706),2), (Record(gds1	browsing	1235	20130706),1))
+01 Feb 2014 19:55:55,594  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+01 Feb 2014 19:55:55,804  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+01 Feb 2014 19:55:55,842  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140201195555-d040
+01 Feb 2014 19:55:55,846  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+01 Feb 2014 19:55:55,883  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58190 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58190)
+01 Feb 2014 19:55:55,889  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+01 Feb 2014 19:55:55,893  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58190 with 1194.5 MB RAM
+01 Feb 2014 19:55:55,894  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+01 Feb 2014 19:55:56,052  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:58191
+01 Feb 2014 19:55:56,058  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+01 Feb 2014 19:55:56,063  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-87216853-54ca-4901-adc5-29dfec141c3f
+01 Feb 2014 19:55:56,378  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+01 Feb 2014 19:55:56,930  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:58192/jars/Scala.jar with timestamp 1391302556929
+01 Feb 2014 19:56:12,674  INFO [main] sortAndRank$ - ()
+02 Feb 2014 11:40:21,893  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 11:40:24,328  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 11:40:24,946  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202114024-1f1b
+02 Feb 2014 11:40:24,981  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 11:40:25,184  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 62947 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,62947)
+02 Feb 2014 11:40:25,265  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 11:40:25,308  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:62947 with 1194.5 MB RAM
+02 Feb 2014 11:40:25,310  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 11:40:27,132  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:62948
+02 Feb 2014 11:40:27,208  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 11:40:27,303  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-78cf8037-8b51-4e4b-8e0f-0917ff0e4f9f
+02 Feb 2014 11:40:31,679  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 11:40:34,390  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:62949/jars/Scala.jar with timestamp 1391359234389
+02 Feb 2014 11:40:50,643  INFO [main] sortAndRank$ - ArrayBuffer((Record(gds1	browsing	1236	20130705),2), (Record(gds1	browsing	1235	20130705),1), (Record(gds1	browsing	1233	20130706),3), (Record(gds1	browsing	1237	20130706),2), (Record(gds1	browsing	1234	20130706),2), (Record(gds1	browsing	1235	20130706),1))
+02 Feb 2014 11:41:27,419  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 11:41:27,618  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 11:41:27,655  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202114127-bbc8
+02 Feb 2014 11:41:27,660  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 11:41:27,695  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 63077 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,63077)
+02 Feb 2014 11:41:27,701  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 11:41:27,712  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:63077 with 1194.5 MB RAM
+02 Feb 2014 11:41:27,713  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 11:41:27,882  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:63078
+02 Feb 2014 11:41:27,889  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 11:41:27,894  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-4e8cca4d-ff77-44dc-ace6-89a501dee240
+02 Feb 2014 11:41:28,234  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 11:41:28,776  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:63079/jars/Scala.jar with timestamp 1391359288775
+02 Feb 2014 11:41:44,132  INFO [main] sortAndRank$ - ArrayBuffer((Record(gds1	browsing	1236	20130705),2), (Record(gds1	browsing	1235	20130705),1), (Record(gds1	browsing	1233	20130706),3), (Record(gds1	browsing	1237	20130706),2), (Record(gds1	browsing	1234	20130706),2), (Record(gds1	browsing	1235	20130706),1))
+02 Feb 2014 11:42:56,903  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 11:42:57,110  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 11:42:57,148  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202114257-0bac
+02 Feb 2014 11:42:57,152  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 11:42:57,188  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 63215 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,63215)
+02 Feb 2014 11:42:57,194  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 11:42:57,196  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:63215 with 1194.5 MB RAM
+02 Feb 2014 11:42:57,197  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 11:42:57,349  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:63216
+02 Feb 2014 11:42:57,355  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 11:42:57,361  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-952c6883-5c3b-4670-9248-252f8a3950e0
+02 Feb 2014 11:42:57,667  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 11:42:58,185  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:63217/jars/Scala.jar with timestamp 1391359378184
+02 Feb 2014 11:43:13,902  INFO [main] sortAndRank$ - ArrayBuffer((Record(gds1	browsing	1236	20130705),2), (Record(gds1	browsing	1235	20130705),1), (Record(gds1	browsing	1233	20130706),3), (Record(gds1	browsing	1237	20130706),2), (Record(gds1	browsing	1234	20130706),2), (Record(gds1	browsing	1235	20130706),1))
+02 Feb 2014 11:47:13,980  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 11:47:14,189  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 11:47:14,230  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202114714-ec1d
+02 Feb 2014 11:47:14,235  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 11:47:14,278  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 63519 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,63519)
+02 Feb 2014 11:47:14,284  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 11:47:14,287  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:63519 with 1194.5 MB RAM
+02 Feb 2014 11:47:14,288  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 11:47:14,447  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:63520
+02 Feb 2014 11:47:14,453  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 11:47:14,459  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-fc4f2b72-06c2-4409-9802-cbda86140e25
+02 Feb 2014 11:47:14,765  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 11:47:15,241  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:63521/jars/Scala.jar with timestamp 1391359635240
+02 Feb 2014 11:47:30,979  INFO [main] sortAndRank$ - (Record(gds1	browsing	1236	20130705),2)	(Record(gds1	browsing	1235	20130705),1)	(Record(gds1	browsing	1233	20130706),3)	(Record(gds1	browsing	1237	20130706),2)	(Record(gds1	browsing	1234	20130706),2)	(Record(gds1	browsing	1235	20130706),1)
+02 Feb 2014 12:20:13,080  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 12:20:13,286  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 12:20:13,324  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202122013-7ec0
+02 Feb 2014 12:20:13,351  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 12:20:13,388  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 49721 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,49721)
+02 Feb 2014 12:20:13,394  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 12:20:13,397  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:49721 with 1194.5 MB RAM
+02 Feb 2014 12:20:13,398  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 12:20:13,549  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:49722
+02 Feb 2014 12:20:13,555  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 12:20:13,583  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-e7e5645a-24e4-4d8e-835b-b4931364438f
+02 Feb 2014 12:20:13,911  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 12:20:14,490  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:49723/jars/Scala.jar with timestamp 1391361614489
+02 Feb 2014 12:20:30,423  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2), Record(gds1	browsing	1236	20130705	1), Record(gds1	browsing	1235	20130705	1), Record(gds1	browsing	1233	20130706	3), Record(gds1	browsing	1237	20130706	2), Record(gds1	browsing	1234	20130706	2), Record(gds1	browsing	1233	20130706	2), Record(gds1	browsing	1237	20130706	1), Record(gds1	browsing	1235	20130706	1), Record(gds1	browsing	1234	20130706	1), Record(gds1	browsing	1233	20130706	1))
+02 Feb 2014 13:00:40,833  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 13:00:41,041  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 13:00:41,078  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202130041-3d3a
+02 Feb 2014 13:00:41,083  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 13:00:41,120  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 52957 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,52957)
+02 Feb 2014 13:00:41,125  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 13:00:41,128  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:52957 with 1194.5 MB RAM
+02 Feb 2014 13:00:41,129  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 13:00:41,294  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:52958
+02 Feb 2014 13:00:41,300  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 13:00:41,306  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-3d81ade4-5280-4f59-b1bb-d4e53755a77c
+02 Feb 2014 13:00:41,614  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 13:00:42,082  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:52959/jars/Scala.jar with timestamp 1391364042081
+02 Feb 2014 13:01:46,705  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 13:01:46,916  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 13:01:46,954  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202130146-f0be
+02 Feb 2014 13:01:46,958  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 13:01:47,000  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 53045 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,53045)
+02 Feb 2014 13:01:47,008  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 13:01:47,012  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:53045 with 1194.5 MB RAM
+02 Feb 2014 13:01:47,013  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 13:01:47,165  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:53046
+02 Feb 2014 13:01:47,172  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 13:01:47,177  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-a0b78535-63c4-442d-8993-a344b2125f6b
+02 Feb 2014 13:01:47,488  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 13:01:48,047  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:53047/jars/Scala.jar with timestamp 1391364108046
+02 Feb 2014 13:02:03,867  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2), Record(gds1	browsing	1236	20130705	1), Record(gds1	browsing	1235	20130705	1), Record(gds1	browsing	1233	20130706	3), Record(gds1	browsing	1237	20130706	2), Record(gds1	browsing	1234	20130706	2), Record(gds1	browsing	1233	20130706	2), Record(gds1	browsing	1237	20130706	1), Record(gds1	browsing	1235	20130706	1), Record(gds1	browsing	1234	20130706	1), Record(gds1	browsing	1233	20130706	1))
+02 Feb 2014 13:03:21,823  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 13:03:22,037  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 13:03:22,073  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202130322-48c8
+02 Feb 2014 13:03:22,078  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 13:03:22,114  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 53091 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,53091)
+02 Feb 2014 13:03:22,119  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 13:03:22,122  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:53091 with 1194.5 MB RAM
+02 Feb 2014 13:03:22,123  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 13:03:22,274  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:53092
+02 Feb 2014 13:03:22,280  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 13:03:22,285  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-4a84c157-e49f-4924-92e0-17deff67bf8e
+02 Feb 2014 13:03:22,598  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 13:03:23,079  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:53093/jars/Scala.jar with timestamp 1391364203078
+02 Feb 2014 13:12:07,264  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 13:12:07,486  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 13:12:07,526  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202131207-c646
+02 Feb 2014 13:12:07,531  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 13:12:07,568  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 53800 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,53800)
+02 Feb 2014 13:12:07,573  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 13:12:07,576  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:53800 with 1194.5 MB RAM
+02 Feb 2014 13:12:07,577  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 13:12:07,738  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:53801
+02 Feb 2014 13:12:07,744  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 13:12:07,750  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-b5c1322c-0755-4fd3-bb99-c896b4e48b57
+02 Feb 2014 13:12:08,087  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 13:12:08,646  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:53802/jars/Scala.jar with timestamp 1391364728645
+02 Feb 2014 13:12:39,855  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 13:12:40,081  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 13:12:40,122  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202131240-91fc
+02 Feb 2014 13:12:40,126  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 13:12:40,167  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 53922 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,53922)
+02 Feb 2014 13:12:40,173  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 13:12:40,176  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:53922 with 1194.5 MB RAM
+02 Feb 2014 13:12:40,177  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 13:12:40,401  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:53923
+02 Feb 2014 13:12:40,407  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 13:12:40,412  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-99d223be-bacc-41b1-afef-8a970d87ef54
+02 Feb 2014 13:12:40,727  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 13:12:41,243  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:53924/jars/Scala.jar with timestamp 1391364761242
+02 Feb 2014 13:12:56,642  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2), Record(gds1	browsing	1236	20130705	1), Record(gds1	browsing	1235	20130705	1), Record(gds1	browsing	1233	20130706	3), Record(gds1	browsing	1237	20130706	2), Record(gds1	browsing	1234	20130706	2), Record(gds1	browsing	1233	20130706	2), Record(gds1	browsing	1237	20130706	1), Record(gds1	browsing	1235	20130706	1), Record(gds1	browsing	1234	20130706	1), Record(gds1	browsing	1233	20130706	1))
+02 Feb 2014 13:43:14,170  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 13:43:14,375  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 13:43:14,415  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202134314-09fd
+02 Feb 2014 13:43:14,420  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 13:43:14,460  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 56331 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,56331)
+02 Feb 2014 13:43:14,465  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 13:43:14,469  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:56331 with 1194.5 MB RAM
+02 Feb 2014 13:43:14,469  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 13:43:14,643  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:56332
+02 Feb 2014 13:43:14,650  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 13:43:14,656  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-da92da02-0cff-4aaa-9f50-0e96adee9fd9
+02 Feb 2014 13:43:15,004  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 13:43:15,700  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:56333/jars/Scala.jar with timestamp 1391366595699
+02 Feb 2014 13:43:31,758  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2), Record(gds1	browsing	1236	20130705	1), Record(gds1	browsing	1235	20130705	1), Record(gds1	browsing	1233	20130706	3), Record(gds1	browsing	1237	20130706	2), Record(gds1	browsing	1234	20130706	2), Record(gds1	browsing	1233	20130706	2), Record(gds1	browsing	1237	20130706	1), Record(gds1	browsing	1235	20130706	1), Record(gds1	browsing	1234	20130706	1), Record(gds1	browsing	1233	20130706	1))
+02 Feb 2014 13:47:22,815  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 13:47:23,024  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 13:47:23,063  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202134723-64e8
+02 Feb 2014 13:47:23,067  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 13:47:23,109  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 56631 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,56631)
+02 Feb 2014 13:47:23,117  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 13:47:23,121  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:56631 with 1194.5 MB RAM
+02 Feb 2014 13:47:23,122  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 13:47:23,276  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:56632
+02 Feb 2014 13:47:23,282  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 13:47:23,288  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-09f71d0f-af5f-4cf1-8288-bfa14d45a02f
+02 Feb 2014 13:47:23,602  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 13:47:24,080  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:56633/jars/Scala.jar with timestamp 1391366844079
+02 Feb 2014 13:47:39,997  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2), Record(gds1	browsing	1236	20130705	1), Record(gds1	browsing	1235	20130705	1), Record(gds1	browsing	1233	20130706	3), Record(gds1	browsing	1237	20130706	2), Record(gds1	browsing	1234	20130706	2), Record(gds1	browsing	1233	20130706	2), Record(gds1	browsing	1237	20130706	1), Record(gds1	browsing	1235	20130706	1), Record(gds1	browsing	1234	20130706	1), Record(gds1	browsing	1233	20130706	1))
+02 Feb 2014 13:49:50,685  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 13:49:50,892  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 13:49:50,931  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202134950-c874
+02 Feb 2014 13:49:50,935  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 13:49:50,972  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 56861 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,56861)
+02 Feb 2014 13:49:50,978  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 13:49:50,981  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:56861 with 1194.5 MB RAM
+02 Feb 2014 13:49:50,982  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 13:49:51,144  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:56862
+02 Feb 2014 13:49:51,150  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 13:49:51,154  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-03758983-4447-4fea-b35d-3bb2a0fdea37
+02 Feb 2014 13:49:51,465  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 13:49:51,931  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:56863/jars/Scala.jar with timestamp 1391366991930
+02 Feb 2014 13:52:02,013  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 13:52:02,218  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 13:52:02,257  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202135202-7f99
+02 Feb 2014 13:52:02,261  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 13:52:02,301  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 56938 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,56938)
+02 Feb 2014 13:52:02,307  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 13:52:02,310  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:56938 with 1194.5 MB RAM
+02 Feb 2014 13:52:02,311  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 13:52:02,462  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:56939
+02 Feb 2014 13:52:02,470  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 13:52:02,475  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-3f3e35ca-792e-40e2-945c-1eb424ad2668
+02 Feb 2014 13:52:02,779  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 13:52:03,365  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:56940/jars/Scala.jar with timestamp 1391367123364
+02 Feb 2014 14:20:19,358  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 14:20:19,604  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 14:20:19,648  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202142019-2288
+02 Feb 2014 14:20:19,654  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 14:20:19,698  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 59313 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,59313)
+02 Feb 2014 14:20:19,705  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 14:20:19,709  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:59313 with 1194.5 MB RAM
+02 Feb 2014 14:20:19,710  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 14:20:19,882  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:59314
+02 Feb 2014 14:20:19,889  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 14:20:19,895  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-c412a07d-01b9-42b3-8d57-657fdd674645
+02 Feb 2014 14:20:20,271  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 14:20:20,850  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:59315/jars/Scala.jar with timestamp 1391368820849
+02 Feb 2014 14:20:36,834  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2), Record(gds1	browsing	1236	20130705	1), Record(gds1	browsing	1235	20130705	1), Record(gds1	browsing	1233	20130706	3), Record(gds1	browsing	1237	20130706	2), Record(gds1	browsing	1234	20130706	2), Record(gds1	browsing	1233	20130706	2), Record(gds1	browsing	1237	20130706	1), Record(gds1	browsing	1235	20130706	1), Record(gds1	browsing	1234	20130706	1), Record(gds1	browsing	1233	20130706	1))
+02 Feb 2014 14:22:58,624  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 14:22:58,838  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 14:22:58,876  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202142258-5427
+02 Feb 2014 14:22:58,880  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 14:22:58,918  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 59617 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,59617)
+02 Feb 2014 14:22:58,924  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 14:22:58,927  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:59617 with 1194.5 MB RAM
+02 Feb 2014 14:22:58,928  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 14:22:59,079  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:59618
+02 Feb 2014 14:22:59,085  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 14:22:59,091  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-62bc0dce-f942-40e7-8501-b0a7dcf3db80
+02 Feb 2014 14:22:59,424  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 14:22:59,895  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:59619/jars/Scala.jar with timestamp 1391368979894
+02 Feb 2014 14:23:15,629  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2), Record(gds1	browsing	1235	20130705	1), Record(gds1	browsing	1233	20130706	3), Record(gds1	browsing	1237	20130706	2), Record(gds1	browsing	1234	20130706	2), Record(gds1	browsing	1235	20130706	1))
+02 Feb 2014 15:05:28,081  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 15:05:28,291  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 15:05:28,331  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202150528-2ece
+02 Feb 2014 15:05:28,336  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 15:05:28,375  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 63477 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,63477)
+02 Feb 2014 15:05:28,380  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 15:05:28,383  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:63477 with 1194.5 MB RAM
+02 Feb 2014 15:05:28,384  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 15:05:28,540  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:63478
+02 Feb 2014 15:05:28,546  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 15:05:28,552  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-82d4424a-2c11-472f-b147-76488e24389d
+02 Feb 2014 15:05:28,869  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 15:05:29,410  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:63479/jars/Scala.jar with timestamp 1391371529409
+02 Feb 2014 15:05:45,510  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2	1/2), Record(gds1	browsing	1235	20130705	1	1/2), Record(gds1	browsing	1233	20130706	3	1/4), Record(gds1	browsing	1237	20130706	2	1/4), Record(gds1	browsing	1234	20130706	2	1/4), Record(gds1	browsing	1235	20130706	1	1/4))
+02 Feb 2014 15:05:45,510  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2	1/2), Record(gds1	browsing	1235	20130705	1	1/2), Record(gds1	browsing	1233	20130706	3	1/4), Record(gds1	browsing	1237	20130706	2	1/4), Record(gds1	browsing	1234	20130706	2	1/4), Record(gds1	browsing	1235	20130706	1	1/4))
+02 Feb 2014 15:16:24,603  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 15:16:24,811  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 15:16:24,848  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202151624-c4fc
+02 Feb 2014 15:16:24,852  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 15:16:24,888  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 64362 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,64362)
+02 Feb 2014 15:16:24,894  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 15:16:24,897  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:64362 with 1194.5 MB RAM
+02 Feb 2014 15:16:24,897  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 15:16:25,044  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:64363
+02 Feb 2014 15:16:25,050  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 15:16:25,056  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-bbff1ab4-4c45-4db2-a7f5-7b23d00f4e1d
+02 Feb 2014 15:16:25,353  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 15:16:25,910  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:64364/jars/Scala.jar with timestamp 1391372185909
+02 Feb 2014 15:16:41,754  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2	1/2), Record(gds1	browsing	1235	20130705	1	1/2), Record(gds1	browsing	1233	20130706	3	1/4), Record(gds1	browsing	1237	20130706	2	1/4), Record(gds1	browsing	1234	20130706	2	1/4), Record(gds1	browsing	1235	20130706	1	1/4))
+02 Feb 2014 15:32:48,534  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 15:32:48,749  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 15:32:48,787  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202153248-36da
+02 Feb 2014 15:32:48,791  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 15:32:48,841  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 49340 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,49340)
+02 Feb 2014 15:32:48,846  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 15:32:48,849  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:49340 with 1194.5 MB RAM
+02 Feb 2014 15:32:48,850  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 15:32:49,018  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:49341
+02 Feb 2014 15:32:49,024  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 15:32:49,030  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-da8fcecd-1736-4419-b490-cadbeb5256d2
+02 Feb 2014 15:32:49,417  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 15:32:49,968  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:49342/jars/Scala.jar with timestamp 1391373169967
+02 Feb 2014 15:33:06,133  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2	1/2), Record(gds1	browsing	1235	20130705	1	1/2), Record(gds1	browsing	1233	20130706	3	1/4), Record(gds1	browsing	1237	20130706	2	1/4), Record(gds1	browsing	1234	20130706	2	1/4), Record(gds1	browsing	1235	20130706	1	1/4))
+02 Feb 2014 17:04:55,625  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 17:04:55,831  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 17:04:55,868  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202170455-e547
+02 Feb 2014 17:04:55,872  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 17:04:55,909  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 56181 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,56181)
+02 Feb 2014 17:04:55,914  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 17:04:55,920  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:56181 with 1194.5 MB RAM
+02 Feb 2014 17:04:55,921  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 17:04:56,081  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:56182
+02 Feb 2014 17:04:56,087  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 17:04:56,093  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-15c22bd7-9a86-46fe-a710-2295312ddb73
+02 Feb 2014 17:04:56,398  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 17:04:56,923  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:56183/jars/Scala.jar with timestamp 1391378696922
+02 Feb 2014 17:05:13,245  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2	1/2), Record(gds1	browsing	1235	20130705	1	2/2), Record(gds1	browsing	1233	20130706	3	1/4), Record(gds1	browsing	1237	20130706	2	2/4), Record(gds1	browsing	1234	20130706	2	2/4), Record(gds1	browsing	1235	20130706	1	3/4))
+02 Feb 2014 17:13:29,185  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 17:13:29,397  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 17:13:29,435  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202171329-5ca8
+02 Feb 2014 17:13:29,440  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 17:13:29,476  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 56891 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,56891)
+02 Feb 2014 17:13:29,482  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 17:13:29,485  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:56891 with 1194.5 MB RAM
+02 Feb 2014 17:13:29,486  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 17:13:29,641  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:56892
+02 Feb 2014 17:13:29,648  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 17:13:29,654  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-acbd48c9-ae29-43f2-81ac-9154a02d4c9d
+02 Feb 2014 17:13:29,953  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 17:13:30,437  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:56893/jars/Scala.jar with timestamp 1391379210436
+02 Feb 2014 17:13:46,210  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2	1/2), Record(gds1	browsing	1235	20130705	1	2/2), Record(gds1	browsing	1233	20130706	3	1/4), Record(gds1	browsing	1237	20130706	2	2/4), Record(gds1	browsing	1234	20130706	2	2/4), Record(gds1	browsing	1235	20130706	1	4/4))
+02 Feb 2014 17:18:52,808  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 17:18:53,013  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 17:18:53,051  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202171853-67ff
+02 Feb 2014 17:18:53,055  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 17:18:53,107  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 57299 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,57299)
+02 Feb 2014 17:18:53,113  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 17:18:53,116  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:57299 with 1194.5 MB RAM
+02 Feb 2014 17:18:53,116  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 17:18:53,273  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:57300
+02 Feb 2014 17:18:53,279  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 17:18:53,285  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-23fd4268-7f71-4bde-9bc2-8ef4f3e8556e
+02 Feb 2014 17:18:53,619  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 17:18:54,156  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:57301/jars/Scala.jar with timestamp 1391379534155
+02 Feb 2014 17:19:09,934  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2	1/2), Record(gds1	browsing	1235	20130705	1	2/2), Record(gds1	browsing	1233	20130706	3	1/4), Record(gds1	browsing	1237	20130706	2	2/4), Record(gds1	browsing	1234	20130706	2	2/4), Record(gds1	browsing	1235	20130706	1	4/4))
+02 Feb 2014 17:21:49,107  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 17:21:49,320  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 17:21:49,359  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202172149-74b5
+02 Feb 2014 17:21:49,363  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 17:21:49,402  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 57575 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,57575)
+02 Feb 2014 17:21:49,407  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 17:21:49,410  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:57575 with 1194.5 MB RAM
+02 Feb 2014 17:21:49,411  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 17:21:49,567  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:57576
+02 Feb 2014 17:21:49,574  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 17:21:49,579  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-29216d06-1d4e-4eda-9c02-87fee7c5deb3
+02 Feb 2014 17:21:55,895  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 17:21:56,505  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:57577/jars/Scala.jar with timestamp 1391379716504
+02 Feb 2014 17:22:12,553  INFO [main] sortAndRank$ - ArrayBuffer(Record(gds1	browsing	1236	20130705	2	1/2), Record(gds1	browsing	1235	20130705	1	2/2), Record(gds1	browsing	1233	20130706	3	1/4), Record(gds1	browsing	1237	20130706	2	2/4), Record(gds1	browsing	1234	20130706	2	2/4), Record(gds1	browsing	1235	20130706	1	4/4))
+02 Feb 2014 17:25:38,278  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 17:25:38,486  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 17:25:38,523  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202172538-cecc
+02 Feb 2014 17:25:38,527  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 17:25:38,565  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 57873 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,57873)
+02 Feb 2014 17:25:38,570  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 17:25:38,573  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:57873 with 1194.5 MB RAM
+02 Feb 2014 17:25:38,573  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 17:25:38,726  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:57874
+02 Feb 2014 17:25:38,733  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 17:25:38,738  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-97f2d8ad-79e1-4327-aa5a-0155d16e3848
+02 Feb 2014 17:25:39,079  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 17:25:39,604  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:57875/jars/Scala.jar with timestamp 1391379939603
+02 Feb 2014 17:25:55,342  INFO [main] sortAndRank$ - ArrayBuffer(gds1browsing12362013070521/2, gds1browsing12352013070512/2, gds1browsing12332013070631/4, gds1browsing12372013070622/4, gds1browsing12342013070622/4, gds1browsing12352013070614/4)
+02 Feb 2014 17:26:51,922  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 17:26:55,138  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 17:26:55,175  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202172655-a2bb
+02 Feb 2014 17:26:55,180  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 17:26:55,216  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58006 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58006)
+02 Feb 2014 17:26:55,222  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 17:26:55,225  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58006 with 1194.5 MB RAM
+02 Feb 2014 17:26:55,226  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 17:26:55,382  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:58007
+02 Feb 2014 17:26:55,389  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 17:26:55,394  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-2a621a95-9889-4e4d-9745-38301d0144e6
+02 Feb 2014 17:26:55,703  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 17:26:56,230  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:58008/jars/Scala.jar with timestamp 1391380016229
+02 Feb 2014 17:27:11,989  INFO [main] sortAndRank$ - ArrayBuffer(g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	6	2	0	1	3	0	7	0	5	2	1	/	2, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	5	2	0	1	3	0	7	0	5	1	2	/	2, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	3	2	0	1	3	0	7	0	6	3	1	/	4, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	7	2	0	1	3	0	7	0	6	2	2	/	4, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	4	2	0	1	3	0	7	0	6	2	2	/	4, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	5	2	0	1	3	0	7	0	6	1	4	/	4)
+02 Feb 2014 17:31:20,974  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 17:31:21,196  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 17:31:21,234  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202173121-dcef
+02 Feb 2014 17:31:21,239  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 17:31:21,275  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58340 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58340)
+02 Feb 2014 17:31:21,281  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 17:31:21,284  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58340 with 1194.5 MB RAM
+02 Feb 2014 17:31:21,285  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 17:31:21,442  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:58341
+02 Feb 2014 17:31:21,448  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 17:31:21,454  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-ac3f3ca7-ff73-4c50-8736-13fcfd72cf25
+02 Feb 2014 17:31:21,760  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 17:31:22,247  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:58342/jars/Scala.jar with timestamp 1391380282246
+02 Feb 2014 17:31:38,008  INFO [main] sortAndRank$ - ArrayBuffer(g	d	s	1	 	b	r	o	w	s	i	n	g	 	1	2	3	6	 	2	0	1	3	0	7	0	5	 	2	 	1	/	2, g	d	s	1	 	b	r	o	w	s	i	n	g	 	1	2	3	5	 	2	0	1	3	0	7	0	5	 	1	 	2	/	2, g	d	s	1	 	b	r	o	w	s	i	n	g	 	1	2	3	3	 	2	0	1	3	0	7	0	6	 	3	 	1	/	4, g	d	s	1	 	b	r	o	w	s	i	n	g	 	1	2	3	7	 	2	0	1	3	0	7	0	6	 	2	 	2	/	4, g	d	s	1	 	b	r	o	w	s	i	n	g	 	1	2	3	4	 	2	0	1	3	0	7	0	6	 	2	 	2	/	4, g	d	s	1	 	b	r	o	w	s	i	n	g	 	1	2	3	5	 	2	0	1	3	0	7	0	6	 	1	 	4	/	4)
+02 Feb 2014 17:33:18,223  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 17:33:18,431  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 17:33:18,471  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202173318-3569
+02 Feb 2014 17:33:18,475  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 17:33:18,513  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58520 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58520)
+02 Feb 2014 17:33:18,518  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 17:33:18,521  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58520 with 1194.5 MB RAM
+02 Feb 2014 17:33:18,522  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 17:33:18,678  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:58521
+02 Feb 2014 17:33:18,685  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 17:33:18,690  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-ecf5ef9c-fc12-4758-96aa-a6550f50900d
+02 Feb 2014 17:33:19,012  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 17:33:19,568  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:58522/jars/Scala.jar with timestamp 1391380399567
+02 Feb 2014 17:33:35,298  INFO [main] sortAndRank$ - ArrayBuffer(g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	6	2	0	1	3	0	7	0	5	2	1	/	2, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	5	2	0	1	3	0	7	0	5	1	2	/	2, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	3	2	0	1	3	0	7	0	6	3	1	/	4, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	7	2	0	1	3	0	7	0	6	2	2	/	4, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	4	2	0	1	3	0	7	0	6	2	2	/	4, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	5	2	0	1	3	0	7	0	6	1	4	/	4)
+02 Feb 2014 17:34:29,815  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 17:34:30,034  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 17:34:30,071  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202173430-0a01
+02 Feb 2014 17:34:30,076  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 17:34:30,116  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 58657 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,58657)
+02 Feb 2014 17:34:30,126  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 17:34:30,131  INFO [spark-akka.actor.default-dispatcher-5] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:58657 with 1194.5 MB RAM
+02 Feb 2014 17:34:30,132  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 17:34:30,288  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:58658
+02 Feb 2014 17:34:30,295  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 17:34:30,300  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-afbd0af8-5b3a-4568-892a-a183a28c2ddf
+02 Feb 2014 17:34:30,603  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 17:34:31,098  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:58659/jars/Scala.jar with timestamp 1391380471097
+02 Feb 2014 17:34:46,876  INFO [main] sortAndRank$ - ArrayBuffer(g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	6	2	0	1	3	0	7	0	5	2	1	/	2, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	5	2	0	1	3	0	7	0	5	1	2	/	2, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	3	2	0	1	3	0	7	0	6	3	1	/	4, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	7	2	0	1	3	0	7	0	6	2	2	/	4, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	4	2	0	1	3	0	7	0	6	2	2	/	4, g	d	s	1	b	r	o	w	s	i	n	g	1	2	3	5	2	0	1	3	0	7	0	6	1	4	/	4)
+02 Feb 2014 17:42:38,505  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 17:42:38,713  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 17:42:38,753  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202174238-a0b6
+02 Feb 2014 17:42:38,757  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 17:42:38,795  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 59283 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,59283)
+02 Feb 2014 17:42:38,800  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 17:42:38,803  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:59283 with 1194.5 MB RAM
+02 Feb 2014 17:42:38,804  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 17:42:38,954  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:59284
+02 Feb 2014 17:42:38,961  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 17:42:38,966  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-06ad7482-b941-4e62-bd35-81568755426f
+02 Feb 2014 17:42:39,276  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 17:42:39,811  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:59285/jars/Scala.jar with timestamp 1391380959810
+02 Feb 2014 17:42:55,948  INFO [main] sortAndRank$ - ArrayBuffer(gds1	browsing	1236	20130705	2	1/2, gds1	browsing	1235	20130705	1	2/2, gds1	browsing	1233	20130706	3	1/4, gds1	browsing	1237	20130706	2	2/4, gds1	browsing	1234	20130706	2	2/4, gds1	browsing	1235	20130706	1	4/4)
+02 Feb 2014 17:45:50,533  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 17:45:50,737  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 17:45:50,774  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202174550-7992
+02 Feb 2014 17:45:50,779  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 17:45:50,814  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 59595 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,59595)
+02 Feb 2014 17:45:50,820  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 17:45:50,826  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:59595 with 1194.5 MB RAM
+02 Feb 2014 17:45:50,827  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 17:45:50,979  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:59596
+02 Feb 2014 17:45:50,985  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 17:45:50,991  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-10fa3ab8-81e3-45d0-a046-f139632dd76b
+02 Feb 2014 17:45:51,302  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 17:45:51,775  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:59597/jars/Scala.jar with timestamp 1391381151775
+02 Feb 2014 17:46:07,565  INFO [main] sortAndRank$ - ArrayBuffer(gds1	browsing	1236	20130705	2	1/2, gds1	browsing	1235	20130705	1	2/2, gds1	browsing	1233	20130706	3	1/4, gds1	browsing	1237	20130706	2	2/4, gds1	browsing	1234	20130706	2	2/4, gds1	browsing	1235	20130706	1	4/4)
+02 Feb 2014 17:46:39,809  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 17:46:40,015  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 17:46:40,054  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202174640-0a15
+02 Feb 2014 17:46:40,058  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 17:46:40,101  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 59627 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,59627)
+02 Feb 2014 17:46:40,107  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 17:46:40,110  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:59627 with 1194.5 MB RAM
+02 Feb 2014 17:46:40,111  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 17:46:40,270  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:59628
+02 Feb 2014 17:46:40,276  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 17:46:40,281  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-d1a6cf99-98a4-45aa-94ea-219e2d060eb2
+02 Feb 2014 17:46:40,586  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 17:46:41,168  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:59629/jars/Scala.jar with timestamp 1391381201167
+02 Feb 2014 17:46:56,585  INFO [main] sortAndRank$ - ArrayBuffer(gds1	browsing	1236	20130705	2	1/2, gds1	browsing	1235	20130705	1	2/2, gds1	browsing	1233	20130706	3	1/4, gds1	browsing	1237	20130706	2	2/4, gds1	browsing	1234	20130706	2	2/4, gds1	browsing	1235	20130706	1	4/4)
+02 Feb 2014 19:08:18,004  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 19:08:20,771  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 19:08:21,597  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202190821-976d
+02 Feb 2014 19:08:21,632  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 19:08:21,868  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 50185 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,50185)
+02 Feb 2014 19:08:21,942  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 19:08:22,001  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:50185 with 1194.5 MB RAM
+02 Feb 2014 19:08:22,004  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 19:08:23,659  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:50186
+02 Feb 2014 19:08:23,794  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 19:08:23,872  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-2902db43-67a9-4e86-881a-8c3a96f4baf4
+02 Feb 2014 19:08:28,556  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 19:08:31,637  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:50187/jars/Scala.jar with timestamp 1391386111476
+02 Feb 2014 19:08:49,619  INFO [main] org.apache.spark.storage.MemoryStore - ensureFreeSpace(32952) called with curMem=0, maxMem=1252499128
+02 Feb 2014 19:08:49,641  INFO [main] org.apache.spark.storage.MemoryStore - Block broadcast_0 stored as values to memory (estimated size 32.2 KB, free 1194.4 MB)
+02 Feb 2014 19:10:02,357  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 19:10:02,575  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 19:10:02,616  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202191002-adeb
+02 Feb 2014 19:10:02,620  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 19:10:02,657  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 50284 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,50284)
+02 Feb 2014 19:10:02,663  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 19:10:02,666  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:50284 with 1194.5 MB RAM
+02 Feb 2014 19:10:02,666  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 19:10:02,823  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:50285
+02 Feb 2014 19:10:02,829  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 19:10:02,834  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-047697b3-ba06-49cb-a6f4-2ce76d5ce9c7
+02 Feb 2014 19:10:03,166  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 19:10:03,642  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:50286/jars/Scala.jar with timestamp 1391386203641
+02 Feb 2014 19:10:19,441  INFO [main] org.apache.spark.storage.MemoryStore - ensureFreeSpace(32952) called with curMem=0, maxMem=1252499128
+02 Feb 2014 19:10:19,443  INFO [main] org.apache.spark.storage.MemoryStore - Block broadcast_0 stored as values to memory (estimated size 32.2 KB, free 1194.4 MB)
+02 Feb 2014 19:10:31,895  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 19:10:32,106  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 19:10:32,144  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202191032-41c6
+02 Feb 2014 19:10:32,148  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 19:10:32,186  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 50307 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,50307)
+02 Feb 2014 19:10:32,192  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 19:10:32,195  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:50307 with 1194.5 MB RAM
+02 Feb 2014 19:10:32,196  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 19:10:32,350  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:50308
+02 Feb 2014 19:10:32,356  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 19:10:32,364  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-e80b1328-ee2a-4336-9ba9-e10ebbcaaf3a
+02 Feb 2014 19:10:32,676  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 19:10:33,141  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:50309/jars/Scala.jar with timestamp 1391386233140
+02 Feb 2014 19:10:48,559  INFO [main] org.apache.spark.storage.MemoryStore - ensureFreeSpace(32952) called with curMem=0, maxMem=1252499128
+02 Feb 2014 19:10:48,561  INFO [main] org.apache.spark.storage.MemoryStore - Block broadcast_0 stored as values to memory (estimated size 32.2 KB, free 1194.4 MB)
+02 Feb 2014 19:11:36,357  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 19:11:36,567  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 19:11:36,605  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202191136-3e55
+02 Feb 2014 19:11:36,610  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 19:11:36,647  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 50342 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,50342)
+02 Feb 2014 19:11:36,653  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 19:11:36,656  INFO [spark-akka.actor.default-dispatcher-3] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:50342 with 1194.5 MB RAM
+02 Feb 2014 19:11:36,657  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 19:11:36,809  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:50343
+02 Feb 2014 19:11:36,816  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 19:11:36,821  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-6ecb7f3c-6493-4846-9d4b-fb6e5e14b7d6
+02 Feb 2014 19:11:37,127  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 19:11:37,700  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:50344/jars/Scala.jar with timestamp 1391386297699
+02 Feb 2014 19:11:53,494  INFO [main] org.apache.spark.storage.MemoryStore - ensureFreeSpace(32952) called with curMem=0, maxMem=1252499128
+02 Feb 2014 19:11:53,496  INFO [main] org.apache.spark.storage.MemoryStore - Block broadcast_0 stored as values to memory (estimated size 32.2 KB, free 1194.4 MB)
+02 Feb 2014 19:11:53,616  INFO [main] sortAndRank$ - ArrayBuffer(gds1	browsing	1236	20130705	2	1/2, gds1	browsing	1235	20130705	1	2/2, gds1	browsing	1233	20130706	3	1/4, gds1	browsing	1237	20130706	2	2/4, gds1	browsing	1234	20130706	2	2/4, gds1	browsing	1235	20130706	1	4/4)
+02 Feb 2014 19:36:02,888  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 19:36:03,089  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 19:36:03,127  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202193603-ec4d
+02 Feb 2014 19:36:03,131  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 19:36:03,168  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 52658 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,52658)
+02 Feb 2014 19:36:03,174  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 19:36:03,179  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:52658 with 1194.5 MB RAM
+02 Feb 2014 19:36:03,179  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 19:36:03,335  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:52659
+02 Feb 2014 19:36:03,341  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 19:36:03,347  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-09afe530-2d4a-4eb9-bda5-d36a342f53e4
+02 Feb 2014 19:36:03,659  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 19:36:04,258  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:52660/jars/Scala.jar with timestamp 1391387764257
+02 Feb 2014 19:36:20,377  INFO [main] org.apache.spark.storage.MemoryStore - ensureFreeSpace(32952) called with curMem=0, maxMem=1252499128
+02 Feb 2014 19:36:20,379  INFO [main] org.apache.spark.storage.MemoryStore - Block broadcast_0 stored as values to memory (estimated size 32.2 KB, free 1194.4 MB)
+02 Feb 2014 19:36:20,632  INFO [main] sortAndRank$ - ArrayBuffer(gds1	browsing	1236	20130705	2	1/3, gds1	browsing	1235	20130705	1	3/3, gds1	browsing	1236	20130705	2	1/3, gds1	browsing	1235	20130706	1	8/8, gds1	browsing	1233	20130706	3	1/8, gds1	browsing	1233	20130706	3	1/8, gds1	browsing	1233	20130706	3	1/8, gds1	browsing	1234	20130706	2	2/8, gds1	browsing	1234	20130706	2	2/8, gds1	browsing	1237	20130706	2	2/8, gds1	browsing	1237	20130706	2	2/8)
+02 Feb 2014 19:37:28,229  INFO [spark-akka.actor.default-dispatcher-5] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 19:37:28,440  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 19:37:28,485  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202193728-e391
+02 Feb 2014 19:37:28,490  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 19:37:28,527  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 52752 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,52752)
+02 Feb 2014 19:37:28,532  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 19:37:28,535  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:52752 with 1194.5 MB RAM
+02 Feb 2014 19:37:28,536  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 19:37:28,689  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:52753
+02 Feb 2014 19:37:28,695  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 19:37:28,700  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-0cbda5ae-dbf9-4317-97e1-34f14b3a0a37
+02 Feb 2014 19:37:29,001  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 19:37:29,477  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:52754/jars/Scala.jar with timestamp 1391387849476
+02 Feb 2014 19:37:45,301  INFO [main] org.apache.spark.storage.MemoryStore - ensureFreeSpace(32952) called with curMem=0, maxMem=1252499128
+02 Feb 2014 19:37:45,303  INFO [main] org.apache.spark.storage.MemoryStore - Block broadcast_0 stored as values to memory (estimated size 32.2 KB, free 1194.4 MB)
+02 Feb 2014 19:37:45,402  INFO [main] sortAndRank$ - ArrayBuffer(gds1	browsing	1236	20130705	2	1/2, gds1	browsing	1235	20130705	1	2/2, gds1	browsing	1233	20130706	3	1/4, gds1	browsing	1237	20130706	2	2/4, gds1	browsing	1234	20130706	2	2/4, gds1	browsing	1235	20130706	1	4/4)
+02 Feb 2014 19:39:22,238  INFO [spark-akka.actor.default-dispatcher-4] akka.event.slf4j.Slf4jEventHandler - Slf4jEventHandler started
+02 Feb 2014 19:39:22,446  INFO [main] org.apache.spark.SparkEnv - Registering BlockManagerMaster
+02 Feb 2014 19:39:22,487  INFO [main] org.apache.spark.storage.DiskBlockManager - Created local directory at C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-local-20140202193922-7ba8
+02 Feb 2014 19:39:22,491  INFO [main] org.apache.spark.storage.MemoryStore - MemoryStore started with capacity 1194.5 MB.
+02 Feb 2014 19:39:22,526  INFO [main] org.apache.spark.network.ConnectionManager - Bound socket to port 52805 with id = ConnectionManagerId(ML-L-ManalN.myriad.int,52805)
+02 Feb 2014 19:39:22,532  INFO [main] org.apache.spark.storage.BlockManagerMaster - Trying to register BlockManager
+02 Feb 2014 19:39:22,535  INFO [spark-akka.actor.default-dispatcher-4] org.apache.spark.storage.BlockManagerMasterActor$BlockManagerInfo - Registering block manager ML-L-ManalN.myriad.int:52805 with 1194.5 MB RAM
+02 Feb 2014 19:39:22,535  INFO [main] org.apache.spark.storage.BlockManagerMaster - Registered BlockManager
+02 Feb 2014 19:39:22,685  INFO [main] org.apache.spark.broadcast.HttpBroadcast - Broadcast server started at http://169.254.175.100:52806
+02 Feb 2014 19:39:22,692  INFO [main] org.apache.spark.SparkEnv - Registering MapOutputTracker
+02 Feb 2014 19:39:22,697  INFO [main] org.apache.spark.HttpFileServer - HTTP File server directory is C:\Users\MANAL~1.NAJ\AppData\Local\Temp\spark-b2c79978-9e61-4d80-a337-86b9439f4293
+02 Feb 2014 19:39:23,000  INFO [main] org.apache.spark.ui.SparkUI - Started Spark Web UI at http://ML-L-ManalN.myriad.int:4040
+02 Feb 2014 19:39:23,598  INFO [main] org.apache.spark.SparkContext - Added JAR C:\ManalN_misc_projects\Scala\out\artifacts\Scala_jar\Scala.jar at http://169.254.175.100:52807/jars/Scala.jar with timestamp 1391387963597
+02 Feb 2014 19:39:39,389  INFO [main] org.apache.spark.storage.MemoryStore - ensureFreeSpace(32952) called with curMem=0, maxMem=1252499128
+02 Feb 2014 19:39:39,391  INFO [main] org.apache.spark.storage.MemoryStore - Block broadcast_0 stored as values to memory (estimated size 32.2 KB, free 1194.4 MB)
+02 Feb 2014 19:39:39,499  INFO [main] sortAndRank$ - ArrayBuffer(gds1	browsing	1236	20130705	2	1/2, gds1	browsing	1235	20130705	1	2/2, gds1	browsing	1233	20130706	3	1/4, gds1	browsing	1237	20130706	2	2/4, gds1	browsing	1234	20130706	2	2/4, gds1	browsing	1235	20130706	1	4/4)
