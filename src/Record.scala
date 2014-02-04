@@ -2,15 +2,9 @@ import java.text.SimpleDateFormat
 import scala.collection.mutable
 
 /**
- * <p>
- * The information contained herein is the property of Myriad Group and is strictly proprietary and
- * confidential. Except as expressly authorized in writing by Myriad Group, you do not have the right
- * to use the information contained herein and you shall not disclose it to any third party.</p>
- *
- * <br>Copyright 2013 Myriad Group. All Rights Reserved.<br>
  *
  * @author: manal.najem
- * @since: 1/31/14
+ * @since: 2/2/14
  */
 case class Record(line: String) {
   val data = line.split("\t")
@@ -25,23 +19,40 @@ case class Record(line: String) {
 
   def date: java.util.Date = new SimpleDateFormat("yyyyMMddHHmm").parse(timestamp)
   def day: java.util.Date = new SimpleDateFormat("yyyyMMdd").parse(timestamp)
-  def newRecordWithDay: Record = {
+
+  /**
+   * This function converts dates from yyyyMMddHHmm to yyyyMMdd date format
+   */
+  def date2day = timestamp = timestamp.substring(0, timestamp.length - 4)
+
+  /**
+   * This function modifies a record by changing its date format
+   * @return New record with yyyyMMdd date format instead of yyyyMMddHHmm
+   */
+  def newRecordWithDayFormat: Record = {
     date2day
     new Record(List(serviceType, serviceName, subscriberId, timestamp).mkString("\t"))
   }
-  /*
-  This function returns a modified record with the count
- */
+
+  /**
+   *  This function returns a modified record by adding the count
+   * @param records Mutable Buffer of records
+   * @param r Record
+   * @return New record with count
+   */
   def newRecordWithCount(records: mutable.Buffer[Record], r: Record) : Record = {
     val count = records.count(_ == r)
-    //records --= records.filter(_ == r)
     val newRecordWithCount = new Record(List(r.serviceType, r.serviceName, r.subscriberId, r.timestamp, count).mkString("\t"))
 
     return newRecordWithCount
   }
-  /*
-  This function returns a modified record with the rank
-*/
+
+  /**
+   * This function returns a modified record by adding the rank
+   * @param records Mutable Buffer of records
+   * @param r Record
+   * @return New record with rank
+   */
   def newRecordWithRank(records: mutable.Buffer[Record], r: Record) : Record = {
     val denominator = records.count(_.day == r.day).toString
     val segment = records.filter(_.day == r.day).sortBy(r => -r.count)
@@ -53,11 +64,6 @@ case class Record(line: String) {
 
     return newRecordWithCount
   }
-
-  /*
-  This function converts dates from yyyyMMddHHmm to yyyyMMdd format
-   */
-  def date2day = timestamp = timestamp.substring(0, timestamp.length - 4)
 
   override def toString = List(serviceType, serviceName, subscriberId, timestamp, count, rank).mkString("\t")
 }
